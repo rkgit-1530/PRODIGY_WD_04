@@ -1,0 +1,5 @@
+f2                  -Edit the tag (means both the close and the open tags)   
+ctrl`               -terminal open
+ctrl /              -for commenting
+ctrl+shift+L        -allows to edit the similiar texts
+Ctrl+Shift "[" "]"  -range collapse

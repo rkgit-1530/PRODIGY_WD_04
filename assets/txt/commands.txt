@@ -1,0 +1,19 @@
+ipconfig                                  \\ipAddress view
+
+git init                                  \\initialise repo
+
+git add .,index.html                      \\adding 
+
+git commit -m "simple html file"          \\saving or storing
+
+git branch -M main                        \\changing to main branch
+
+git remote add origin URL \\connecting git to github
+
+git remote -v                             \\checking that github is connected 
+
+git push -u origin main                   \\pushing into the github
+
+git clone URL                             \\getting a copy of the project
+
+git push                                  \\pushing again in the file to  github
